@@ -11,7 +11,7 @@ var uiConfig = {
       },
       uiShown: function() {
         // The widget is rendered.
-        // Hide the loader.
+        // Hide the loader
         document.getElementById('loader').style.display = 'none';
       }
     },

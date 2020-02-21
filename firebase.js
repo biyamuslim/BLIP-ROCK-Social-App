@@ -1,2 +1,2 @@
- // Initialize Firebase
+ // Initialize Firebase/
  firebase.initializeApp(firebaseConfig);
